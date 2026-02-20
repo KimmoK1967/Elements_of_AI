@@ -1,3 +1,13 @@
+
+# Ethical AI Checklist
+Building AI course project
+
+This is a course project for the “Elements of AI” course, intended to present my own idea for utilizing AI.
+
+## Summary
+This project introduces an “Ethical AI” checklist: a simple AI‑assisted tool that helps organizations reflect on ethical and other strictly non‑technical aspects of an AI project. The purpose of the checklist is to help ensure that an AI project is ethically acceptable.
+
+
 # Elements_of_AI
 This is a course project for the “Elements of AI” course, intended to present my own idea for utilizing AI.
 
